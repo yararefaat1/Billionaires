@@ -1,6 +1,6 @@
 # Billionaires
 Database Overview Name: BillionairesDB Size: 500MB
-tables:
+tables:\n
   **pesonal_info**
     Columns:
      person_id
