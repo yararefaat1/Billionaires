@@ -1,6 +1,6 @@
 # Billionaires
-Database Overview Name: BillionairesDB Size: 500MB
-tables:\n
+Database Overview **Name**: BillionairesDB **Size**: 500MB
+tables:
   **pesonal_info**
     Columns:
      person_id
