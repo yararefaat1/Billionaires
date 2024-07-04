@@ -27,8 +27,15 @@ tables:
   industries
   location_id
 
-**  Excel File**
+ Excel File
 - `Original Billionaires Statistics Dataset.xlsx` - Contains the raw sales data.
+
+SQL Queries:
+**Wealth Ranking: Rank individuals within countries based on their net worth.
+Economic Impact Analysis: Analyze the economic contributions of top earners to their respective regional economies.
+Industry Analysis: Evaluate total earnings per industry and source, identifying key trends in wealth generation.
+Wealth Categorization: Classify individuals by wealth status using net worth thresholds.**
+
 
 
 
