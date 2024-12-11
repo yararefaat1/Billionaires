@@ -1,4 +1,4 @@
-# Billionaires
+# SQL Analysis for Top Billionaires
 Database Overview **Name**: BillionairesDB **Size**: 500MB
 tables:
   **pesonal_info**
